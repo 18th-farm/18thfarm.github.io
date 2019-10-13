@@ -1,9 +1,12 @@
-# HuxBlog Boilerplate
+# A project of saving 18th Farm
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+## Link : [18thfarm.github.io](18thfarm.github.io)
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
+## **声明：此项目运营者与`18号农场`公众号及其运营者无关。**
 
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
+##### This blog is based on boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io).
 
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+## Contribution
+
+- You can contact us4 via 18thfarm@protonmail.com
+- (TBD)
