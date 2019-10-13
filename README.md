@@ -1,6 +1,6 @@
 # A project of saving 18th Farm
 
-## Link : [18thfarm.github.io](18thfarm.github.io)
+## Link : [https://18thfarm.github.io](18thfarm.github.io)
 
 ## **声明：此项目运营者与`18号农场`公众号及其运营者无关。**
 
@@ -8,5 +8,5 @@
 
 ## Contribution
 
-- You can contact us4 via 18thfarm@protonmail.com
+- You can contact us via 18thfarm@protonmail.com
 - (TBD)
